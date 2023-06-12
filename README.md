@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ryvk20nly1
-- 👀 I’m interested in web devlopment
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning html, css, js
 - 💞️ I’m looking to collaborate on every web project
 - 📫 Reach me in DM
